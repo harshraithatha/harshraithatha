@@ -2,7 +2,7 @@
 
 **AI/Data Science Lead | Generative AI | Machine Learning | Agentic AI**
 
-I'm a Data Scientist and AI implementation lead with **14 years of IT experience**, including **9 years in Data Science** and **3+ years focused on Generative AI and LLMs**.
+I'm a Data Scientist and AI implementation lead with **14 years of IT experience**, including **9 years in Data Science** and **3+ years focused on Generative AI and Agentic AI**.
 
 I enjoy turning business problems into practical AI solutions — from traditional ML models to **RAG applications, AI agents, and multi-agent systems**.
 
