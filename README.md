@@ -1,47 +1,58 @@
 # Hi, I'm Harsh Raithatha
 
-**AI/Data Science Lead | Generative AI | Machine Learning | Agentic AI**
+**Data & AI Lead | Generative AI | Agentic AI | Machine Learning | Azure**
 
-I'm a Data Scientist and AI implementation lead with **14 years of IT experience**, including **9 years in Data Science** and **3+ years focused on Generative AI and Agentic AI**.
+I'm a Data and AI Lead with **14+ years of IT experience**, including **9+ years in Data Science** and **3+ years focused on Generative AI, LLMs and AI Agents**.
 
-I enjoy turning business problems into practical AI solutions — from traditional ML models to **RAG applications, AI agents, and multi-agent systems**.
+I build practical AI solutions for enterprise clients in **telecom, healthcare, banking, automotive and data centres** — from classical ML models to **RAG applications, AI agents and agentic automation pipelines** on Azure and Microsoft Fabric.
 
 ## What I Do
 
 * 🤖 **Generative AI & LLMs** — LLM applications, RAG, AI Agents, evaluation and optimization
+* 🔗 **Agentic AI** — Multi-agent workflows and end-to-end business process automation
+* ☁️ **Azure & Fabric** — Azure AI Foundry, Document Intelligence, Function Apps, Microsoft Fabric and MCP
 * 🧠 **Machine Learning** — Classification, regression, NLP, recommendation systems and statistical analysis
-* 🔗 **Agentic AI** — Multi-agent workflows and business process automation
-* 📊 **Data & BI** — Python, SQL, SAS, Power BI and Tableau
-* 👥 **AI Leadership** — Leading cross-functional teams and taking AI products from idea to implementation
+* 🛠️ **AI Enablement** — GitHub Copilot and Claude Code rollouts, FinOps, and training teams to adopt AI tools
+* 👥 **AI Leadership** — Leading teams of Data Scientists, Data Engineers and Developers from scoping to deployment
+
+## Recent Impact
+
+* ⚡ Agentic part-mapping automation handling **17,000+ requests/month**, cutting processing time from **2–3 days to a few minutes**
+* 🏥 Patient-form pipeline (UiPath → Azure Document Intelligence) reducing processing time from **14s to under 9s per form**
 
 ## Some Things I've Built
 
-| Project                       | What I Built                                                                                                                                      |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🧾 **Accounts Payable AI**    | Multi-agent system for vendor invoice classification and extraction, improving AP efficiency by **40%** and reducing operational costs by **30%** |
-| ⚖️ **Redlining Agent**        | AI agent to review MSAs/SOWs, identify contractual risks and suggest revisions                                                                    |
-| 🔄 **SAS → SQL**              | LLM-based solution to convert SAS scripts into optimized SQL queries and views                                                                    |
-| 💬 **GOC Conversational AI**  | AI chatbot that reduced incoming requests and incidents by **50%+** and saved **$22K+ annually**                                                  |
-| 🎯 **Recommendation Engine**  | Hybrid recommender system using KNN and cosine similarity for server/processor recommendations                                                    |
-| ✈️ **Flight Fuel Prediction** | ML models using Linear Regression and XGBoost to forecast flight fuel consumption                                                                 |
+| Project                          | What I Built                                                                                                                          |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 🔩 **Part Mapping Agent**        | Agentic automation mapping customer part needs to vendor supplies across 17,000+ requests/month — from 2 days to 3 minutes            |
+| 🏥 **Patient Form Pipeline**     | Python, FastAPI, Document Intelligence and OpenAI pipeline processing thousands of patient forms, cutting time per form from 14s to <9s |
+| 🏦 **Azure AI Foundry Platform** | Led a team that set up Azure AI Foundry and migrated a bank's data to Azure for a single secure AI platform                            |
+| 🧑‍💼 **Agentic HRMS**              | Fully agentic HR Management System automating the complete employee lifecycle, from hire to retire                                   |
+| 📈 **Claude Artifacts + Fabric** | Claude Artifacts connected to company data via Fabric MCP servers for real-time visibility into business operations                   |
+| 🧾 **Accounts Payable AI**       | Multi-agent system (LangGraph, OpenAI) to classify vendor invoice emails and extract invoice data for NetSuite submission              |
+| ⚖️ **Redlining Agent**           | AI agent to review MSAs/SOWs, identify contractual risks and suggest revisions                                                        |
+| 🔄 **SAS → SQL**                 | LLM-based solution to convert SAS scripts into optimized SQL queries and views                                                        |
+| 🎯 **Recommendation Engine**     | Hybrid recommender system using KNN and cosine similarity for server/processor recommendations                                        |
+| ✈️ **Flight Fuel Prediction**    | ML models using Linear Regression and XGBoost to forecast flight fuel consumption                                                     |
 
 ## Tech I Work With
 
-`Python` `Machine Learning` `Generative AI` `LLMs` `RAG` `AI Agents`
+`Python` `Machine Learning` `Generative AI` `LLMs` `RAG` `AI Agents` `MCP`
 
-`LangGraph` `LangChain` `OpenAI` `Azure` `SQL` `SAS` `Power BI`
+`LangGraph` `LangChain` `OpenAI` `Azure OpenAI` `Claude Code` `GitHub Copilot`
 
-`Django` `N8N` `Tableau` `Celonis`
+`Azure AI Foundry` `Azure Document Intelligence` `Azure Function Apps` `Azure Container Apps` `Microsoft Fabric`
+
+`FastAPI` `Django` `SQL` `SAS` `Power BI` `Tableau` `N8N` `Celonis` `FinOps` `MLOps`
 
 ## Currently Exploring
 
 * Agentic AI & multi-agent systems
-* Enterprise RAG
+* MCP servers and Claude Code for enterprise workflows
+* Enterprise RAG on Azure and Microsoft Fabric
 * LLM evaluation & optimization
-* AI-powered automation
 * Building production-ready AI applications
 
 ## Let's Connect
 
 📧 **[Email me](mailto:harshraithatha@gmail.com)**
-
