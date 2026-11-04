@@ -22,18 +22,39 @@ I build practical AI solutions for enterprise clients in **telecom, healthcare, 
 
 ## Some Things I've Built
 
-| Project                          | What I Built                                                                                                                          |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 🔩 **Part Mapping Agent**        | Agentic automation mapping customer part needs to vendor supplies across 17,000+ requests/month — from 2 days to 3 minutes            |
-| 🏥 **Patient Form Pipeline**     | Python, FastAPI, Document Intelligence and OpenAI pipeline processing thousands of patient forms, cutting time per form from 14s to <9s |
-| 🏦 **Azure AI Foundry Platform** | Led a team that set up Azure AI Foundry and migrated a bank's data to Azure for a single secure AI platform                            |
-| 🧑‍💼 **Agentic HRMS**              | Fully agentic HR Management System automating the complete employee lifecycle, from hire to retire                                   |
-| 📈 **Claude Artifacts + Fabric** | Claude Artifacts connected to company data via Fabric MCP servers for real-time visibility into business operations                   |
-| 🧾 **Accounts Payable AI**       | Multi-agent system (LangGraph, OpenAI) to classify vendor invoice emails and extract invoice data for NetSuite submission              |
-| ⚖️ **Redlining Agent**           | AI agent to review MSAs/SOWs, identify contractual risks and suggest revisions                                                        |
-| 🔄 **SAS → SQL**                 | LLM-based solution to convert SAS scripts into optimized SQL queries and views                                                        |
-| 🎯 **Recommendation Engine**     | Hybrid recommender system using KNN and cosine similarity for server/processor recommendations                                        |
-| ✈️ **Flight Fuel Prediction**    | ML models using Linear Regression and XGBoost to forecast flight fuel consumption                                                     |
+### 🤖 Generative & Agentic AI
+
+| Project                          | What I Built                                                                                                                             |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 🔩 **Part Mapping Agent**        | Agentic automation mapping customer part needs to vendor supplies across 17,000+ requests/month — from 2 days to 3 minutes (Python, Azure Function Apps, OpenAI, Graph API) |
+| 🏥 **Patient Form Pipeline**     | Pipeline processing thousands of patient forms in a UiPath → Azure Document Intelligence migration, cutting time per form from 14s to <9s (Python, FastAPI, OpenAI, Function Apps) |
+| 🧑‍💼 **Agentic HRMS**              | Fully agentic HR Management System automating the complete employee lifecycle, from hire to retire                                      |
+| 📈 **Claude Artifacts + Fabric** | Led a team building Claude Artifacts connected to company data via Fabric MCP servers, giving real-time visibility into business operations |
+| 📑 **Enterprise Reporting Agents** | Agents that extract insights from enterprise data, automate monthly business reporting and generate project burn reports by dynamically creating SQL views |
+| 🧾 **Accounts Payable AI**       | Multi-agent system to classify vendor invoice emails and extract invoice data for NetSuite submission (LangGraph, Python, OpenAI)        |
+| ⚖️ **Redlining Agent**           | AI agent to validate MSAs/SOWs, highlight contractual risks and suggest revisions (LangChain, OpenAI, Azure Cognitive Services)          |
+| 💬 **GenAI Apps Suite**          | Multiple RAG-based GenAI applications for different organizational personas — BrilliAI, RFP Agent, Sales Insights Agent and GOC Agent   |
+| 🔄 **SAS → SQL**                 | LLM-based solution to convert SAS scripts into optimized SQL queries and views (Python, OpenAI GPT)                                     |
+| 🧪 **AI Proofs of Concept**      | AI PoCs demonstrating feasibility and business value — Customer Segmentation, HR Wizard and a CCP Program                               |
+
+### ☁️ AI Platforms & Enablement
+
+| Project                          | What I Built                                                                                                                             |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 🏦 **Azure AI Foundry Platform** | Managed a team that set up Azure AI Foundry and migrated a bank's data to Azure, giving its teams one secure platform to build and run AI |
+| 🧑‍💻 **GitHub Copilot Enablement** | Set up GitHub Copilot and created training material for an engineering team to automate continuous testing of C code on microprocessors and microcontrollers (Python, Claude Code, Copilot, Azure) |
+| 💰 **Azure FinOps** *(ongoing)*  | Setting up Azure FinOps for cloud and GitHub Copilot license costs, tracking spend and finding savings opportunities                    |
+
+### 🧠 Machine Learning & Analytics
+
+| Project                          | What I Built                                                                                                                             |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 🎯 **Recommendation Engine**     | Hybrid recommender (popularity- and content-based) using KNN and cosine similarity to suggest optimal processors per server series      |
+| 🚨 **Alert Remediation**         | Random Forest classification models that minimized alert inflow and cut SLA from 8+ hours to under 90 minutes for 90% of configuration items |
+| ✈️ **Flight Fuel Prediction**    | Linear Regression and XGBoost models forecasting flight fuel consumption from historical flight management data                         |
+| 📉 **Churn Prediction & DataOps** | Customer churn model (Scikit-learn, XGBoost) plus 30+ Python automation scripts for SQL extraction, department reports and scheduled email delivery |
+| 🏗️ **Infrastructure Transformation** | EDA on system uptime data to find recurring IT failures and plan upgrades for 2,000+ legacy systems (Tableau, Matplotlib, Seaborn) |
+| 🔍 **Process Mining**            | Reduced throughput time in the system decommission process and identified workflow gaps (Python, Celonis)                               |
 
 ## Tech I Work With
 
