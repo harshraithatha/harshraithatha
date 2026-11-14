@@ -4,7 +4,7 @@
 
 I'm a Data and AI Lead with **14+ years of IT experience**, including **9+ years in Data Science** and **3+ years focused on RAG, Generative AI, LLMs and AI Agents**.
 
-I build practical AI solutions for enterprise clients in **aerospace, transportation, telecom, information technology, healthcare, finance, banking, automotive, and data centres** — from classical ML models to **RAG applications, AI agents and agentic automation pipelines** on Azure and Microsoft Fabric.
+I build practical AI solutions for enterprise clients in **aerospace, transportation, telecommunications, information technology, healthcare, finance, banking, automotive, and data centres** — from classical ML models to **RAG applications, AI agents and agentic automation pipelines** on Azure and Microsoft Fabric.
 
 ## What I Do
 
